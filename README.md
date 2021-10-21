@@ -25,10 +25,19 @@ How accurate are these values? For this assignment your job is to read from an e
 For example, suppose you read in the following text, which is in a text file called pears.txt:
 
 ```
-"OK, nothings perfect, but, so far, the buzz is that Harrow Sweet comes as close as any pear I grow. It is very extra sweet, which in our more northern latitude can be a major issue where pears often get inadequate sugar. The Highlands are as sweet as Seckels this year- the sweetest pear commonly grown here."
+"OK, nothings perfect, but, so far, the
+ buzz is that Harrow Sweet comes as
+ close as any pear I grow. It is very
+ extra sweet, which in our more
+ northern latitude can be a major issue
+ where pears often get inadequate
+ sugar. The Highlands are as sweet as
+ Seckels this year- the sweetest pear
+ commonly grown here."
 ```
 
 Here is the output produced:
+
 ![Image of Statistics](./precisionScrabbleOutput.png)
 
 ## Relative frequency calculations
