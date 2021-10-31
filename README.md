@@ -54,6 +54,14 @@ Your job, then is to write the ScrabblePrecision class so that ScrabbleDriver wo
 
 ## Other Requirements and Observations
 
+Here is a list from a to z of the letter scores from Scrabble:
+
+```
+{1,3,3,2,1,4,2,4,1,8,5,1,3,1,1,3,10,1,1,1,1,4,4,8,4,10}
+```
+
+Notice that this list is in proper format for copying and pasting directly into your program as an int array.
+
 - Go to the [Project Guttenberg](https://www.gutenberg.org/) and download at least 3 other txt files to test your code. Be sure to add the txt files and a screenshot of your output to your respository
 
 - The ScrabblePrecision class extends the TextAccessor class given above. You should not modify TextAccesor
